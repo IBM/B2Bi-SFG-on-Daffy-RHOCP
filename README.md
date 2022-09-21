@@ -22,14 +22,13 @@ This tool was developed to simplify the basic installation of containers for IBM
 ```bash
 root@bastion01:/data/daffy/ocp#
 root@bastion01:/data/daffy/ocp# cd /data/daffy
-#
 ```
 ```bash
 root@bastion01:/data/daffy/ocp# pwd
 /data/daffy
 ```
 ```bash
-root@bastion01:/data/daffy ./tools.sh --installibmsterlingbb2bi
+root@bastion01:/data/daffy# ./tools.sh --installibmsterlingbb2bi
 ```
 
 ![Install-B2Bi-Tool](images/install-b2bi-tool.png "Install-B2Bi-Tool")
