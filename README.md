@@ -22,9 +22,12 @@ This tool was developed to simplify the basic installation of containers for IBM
 ```bash
 root@bastion01:/data/daffy/ocp#
 root@bastion01:/data/daffy/ocp# cd /data/daffy
-#
+#```
+```bash
 # pwd
+```
 /data/daffy
+```bash
 #
 # ./tools.sh --installibmsterlingbb2bi
 ```
