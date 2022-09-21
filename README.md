@@ -20,15 +20,15 @@ This tool was developed to simplify the basic installation of containers for IBM
 2. <b>cd</b> to the Daffy home directory and run the CloudPak / Application installer, <b>tools.sh</b>.  Be sure to add the parameter <b>"_--installibmsterlingbb2bi_"</b> to the command:
 
 ```bash
-root@bastion01:/data/daffy/ocp#
-root@bastion01:/data/daffy/ocp# cd /data/daffy
+root@bastion01:/data/daffy/ocp
+root@bastion01:/data/daffy/ocp cd /data/daffy
 ```
 ```bash
-root@bastion01:/data/daffy/ocp# pwd
+root@bastion01:/data/daffy/ocp pwd
 /data/daffy
 ```
 ```bash
-root@bastion01:/data/daffy# ./tools.sh --installibmsterlingbb2bi
+root@bastion01:/data/daffy ./tools.sh --installibmsterlingbb2bi
 ```
 
 ![Install-B2Bi-Tool](images/install-b2bi-tool.png "Install-B2Bi-Tool")
