@@ -27,8 +27,8 @@ root@bastion01:/data/daffy/ocp cd /data/daffy
 root@bastion01:/data/daffy/ocp pwd
 /data/daffy
 ```
-```
-root@bastion01:/data/daffy ```<span style="color:blue">./tools.sh</span>``` --installibmsterlingbb2bi
+```bash
+root@bastion01:/data/daffy tools.sh --installibmsterlingbb2bi
 ```
 ![Install-B2Bi-Tool](images/install-b2bi-tool.png "Install-B2Bi-Tool")
 
