@@ -39,12 +39,12 @@ root@bastion01:/data/daffy ./tools.sh --installibmsterlingbb2bi
 4. <b>cd</b> to the directory:
 
 ```bash
-root@bastion01:/data/daffy#
-root@bastion01:/data/daffy# cd /data/IBM-SterlingB2BInstaller
-#
-# pwd
+root@bastion01:/data/daffy
+root@bastion01:/data/daffy cd /data/IBM-SterlingB2BInstaller
+```
+```bash
+root@bastion01:/data/daffy pwd
 /data/IBM-SterlingB2BInstaller
-#
 ```
 
 ![Successful-B2Bi_SFG-Tool-Install](images/cd-2-b2bi-install.png "Successful-B2Bi_SFG-Tool-Install")
