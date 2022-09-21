@@ -32,7 +32,7 @@ root@bastion01:/data/daffy ./tools.sh --installibmsterlingbb2bi
 ```
 ![Install-B2Bi-Tool](images/install-b2bi-tool.png "Install-B2Bi-Tool")
 
-3. Take note of the directory where the B2Bi-SFG installation tool was installed and CD to that directory:
+3. Take note of the directory where the B2Bi-SFG installation tool was installed and <b>cd</b> to that directory:
 
 ![Install-B2Bi-Tool](images/tool-installed.png "Install-B2Bi-Tool")
 
