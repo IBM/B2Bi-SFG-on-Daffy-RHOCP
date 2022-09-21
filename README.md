@@ -66,8 +66,7 @@ root@bastion01:/data/daffy pwd
 | **IBM-Entitlement-Key-File:**| *Full path to a file containing your entitlement key.*
 
 
-## When the installation has completed you are ready to log in to IBM Sterling B2Bi / File Gateway.
-## Congratulations!
+## When the installation has completed you are ready to log in to IBM Sterling B2Bi / File Gateway.\Congratulations!
 
 #  Notes:
 
