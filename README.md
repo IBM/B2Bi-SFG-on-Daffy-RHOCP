@@ -27,7 +27,7 @@ root@bastion01:/data/daffy/ocp cd /data/daffy
 root@bastion01:/data/daffy/ocp pwd
 /data/daffy
 ```
-```bash
+```
 root@bastion01:/data/daffy <span style="color:blue">./tools.sh</span> --installibmsterlingbb2bi
 ```
 
