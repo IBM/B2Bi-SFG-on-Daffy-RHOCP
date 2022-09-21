@@ -67,7 +67,6 @@ root@bastion01:/data/daffy pwd
 
 
 ## When the installation has completed you are ready to log in to IBM Sterling B2Bi / File Gateway.
-
 ## Congratulations!
 
 #  Notes:
